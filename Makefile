@@ -53,3 +53,6 @@ release: clean
 sdist: clean
 	python setup.py sdist
 	ls -l dist
+
+trans:
+	cd tg_react ; django-admin makemessages -a ; django-admin compilemessages

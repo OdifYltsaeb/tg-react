@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-05 01:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: api/accounts/serializers.py:34 api/accounts/serializers.py:123
+msgid "User with this e-mail address already exists"
+msgstr ""
+
+#: api/accounts/serializers.py:68
+msgid "Your account has been disabled"
+msgstr ""
+
+#: api/accounts/serializers.py:77
+msgid "Unable to login with provided credentials."
+msgstr ""
+
+#: api/accounts/serializers.py:79
+msgid "Enter both email and password"
+msgstr ""
+
+#: api/accounts/serializers.py:89
+msgid "Phone number needs to include valid country code (E.g +37255555555)"
+msgstr ""
+
+#: api/accounts/serializers.py:142
+msgid "We do not have user with given e-mail address in our system"
+msgstr ""
+
+#: api/accounts/serializers.py:172
+msgid "Password mismatch."
+msgstr ""
+
+#: api/accounts/serializers.py:183 api/accounts/serializers.py:191
+msgid "Broken data."
+msgstr ""
+
+#: api/accounts/serializers.py:198
+msgid "User not found."
+msgstr ""
+
+#: api/accounts/serializers.py:202
+msgid ""
+"This password recovery link has expired or associated user does not exist."
+msgstr ""
+
+#: api/accounts/serializers.py:203
+msgid "Use password recovery form to get new e-mail with new link."
+msgstr ""
+
+#: api/accounts/views.py:185
+msgid "Password restore"
+msgstr ""

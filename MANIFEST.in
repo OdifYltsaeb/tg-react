@@ -3,4 +3,5 @@ include CONTRIBUTING.rst
 include HISTORY.rst
 include LICENSE
 include README.rst
+recursive-include tg_react/locale *
 recursive-include tg_react *.html *.png *.gif *js *.css *jpg *jpeg *svg *py
